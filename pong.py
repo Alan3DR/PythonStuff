@@ -42,3 +42,4 @@ while not game_over:
 		if y < 6:
 			y += 1
 
+
