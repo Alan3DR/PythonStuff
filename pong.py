@@ -22,7 +22,7 @@ curses.noecho()
 y=4
 #sense.set_pixel(0,y,255,255,255)
 def drawbat():
-	sense.set_pixel(0,y,255,255,255)
+	sense.set_pixel(0,y,200,200,200)
 	sense.set_pixel(0,y+1,255,255,255)
 	sense.set_pixel(0,y-1,255,255,255)
 
